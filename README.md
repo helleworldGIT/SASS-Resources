@@ -1,5 +1,5 @@
 # SASS-Resources
-Handy resources for SASS
+Handy resources for SASS projects.
 
 ## INDEX
 
