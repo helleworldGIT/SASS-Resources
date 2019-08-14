@@ -9,8 +9,8 @@ Handy resources for SASS projects.
 [SASS folder structure with ITCSS](https://github.com/helleworldGIT/SASS-Resources/wiki/SASS-folder-structure-with-ITCSS)
 > A nice structure for the SASS styles in a project using ITCSS theory.
 
-[SASS Responsive template](https://github.com/helleworldGIT/SASS-Resources/wiki/Responsive-mixins-SASS-partial)
-> A Responsive template with the average sizes that work nice.
+[SASS Responsive mediaquery sizes template](https://github.com/helleworldGIT/SASS-Resources/wiki/Responsive-mixins-SASS-partial)
+> Responsive mediaqueries sizes partial for SASS.
 
 [SASS Custom font declaration](https://github.com/helleworldGIT/SASS-Resources/wiki/Custom-Font-declaration-in-SASS)
 > Custom font declaration in SASS.
