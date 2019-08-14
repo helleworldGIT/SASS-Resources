@@ -3,6 +3,8 @@ Handy resources for SASS projects.
 
 ## INDEX
 
+[Install SASS fast](https://github.com/helleworldGIT/SASS-Resources/wiki/Easiest-and-faster-way-to-install-SASS)
+
 [SASS folder structure with ITCSS](https://github.com/helleworldGIT/SASS-Resources/wiki/SASS-folder-structure-with-ITCSS)
 > A nice structure for the SASS styles in a project using ITCSS theory.
 
