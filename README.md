@@ -20,3 +20,6 @@ Handy resources for SASS projects: mixins, scripts, responsive, etc.
 
 [Command for auto-compiling SASS when saving](https://github.com/helleworldGIT/SASS-Resources/wiki/Auto-compile-command-for-SASS)
 > This command autocompiles SASS everytime you save (ctrol+s) your SASS file.
+
+[Custom column system with SASS](https://github.com/helleworldGIT/SASS-Resources/wiki/Creating-a-column-system-with-SASS-functions)
+> This function will let you create a custom column system based in your needs/objectives!
